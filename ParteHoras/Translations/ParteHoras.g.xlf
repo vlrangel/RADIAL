@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ParteHoras">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 151234740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Detalle Partes Administrador</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 1908272084 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Job No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Job No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 561421623 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Job Task No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Job Task No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 35450067 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Posted field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Posted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 4042090374 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Posted Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Posted Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 3961767479 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Resource No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Resource No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 4095902741 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Time Sheet Line No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Time Sheet Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 2642451359 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Time Sheet No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Time Sheet No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Action 1114477572 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the time sheet to approve its details. This requires that you're the time sheet owner, administrator, or approver.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Action &amp;Edit Time Sheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 151234740 - Action 1114477572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Review Time Sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DetallePartes - Action &amp;Edit Time Sheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lineas Partes Administrador</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - NamedType 1359562522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - NamedType DimensionCaptionTok</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The type of time sheet line cannot be empty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 124852388 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Approver ID field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Approver ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the time sheet line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 1908272084 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number for the job that is associated with the time sheet line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Job No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 561421623 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the related job task.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Job Task No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 2540467458 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the resource for the time sheet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Nombre Recurso - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 2330540860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the resource for the time sheet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Recurso No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies information about the status of a time sheet line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 2642451359 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Time Sheet No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Time Sheet No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 3619520474 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Time Sheet Starting Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Time Sheet Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 346344467 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total number of hours that have been entered on a time sheet.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Total Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 346344467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Total Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Control 3618073952 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies which work type the resource applies to. Prices are updated based on this entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Control Work Type Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Action 1114477572 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the time sheet to approve its details. This requires that you're the time sheet owner, administrator, or approver.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Action &amp;Edit Time Sheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Action 1114477572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Review Time Sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Action &amp;Edit Time Sheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Action 803889193 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve the lines on the time sheet. Choose All to approve all lines. Choose Selected to approve only selected lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Action Approve - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Action 803889193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Approve</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Action Approve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Action 2071937805 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reopen the time sheet to change it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Action Reopen - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3832504946 - Action 2071937805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Lineas Detalles - Action Reopen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged Accounts Receivable V21</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 3954423248" size-unit="char" translate="yes" xml:space="preserve">
+          <source>After</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType AfterTok</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 2402552187" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged Accounts Receivable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType AgedAccReceivableCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 2555393066" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged Overdue Amounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType AgedOverdueAmtCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 3284058877" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Amounts in LCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType AllAmtinLCYCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 1350921099" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Before</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType BeforeTok</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 1707603408" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Original Amount </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType CLEEndDateAmtLCYCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 394537149" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType CLEEndDateDocNoCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 1747274374" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType CLEEndDateDocTypeCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 3808507638" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType CLEEndDateDueDateCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 2244048076" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType CLEEndDatePstngDateCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 3193990627" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType CurrReportPageNoCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 269144572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Specification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType CurrSpecificationCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 82002553" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a date formula in the Period Length field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType EnterDateFormulaErr</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 2813197814" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType OriginalAmtCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not Due</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>days</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged by %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total for %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged as of %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged by %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date,Posting Date,Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Date Formula %1 cannot be used. Try to restate it. E.g. 1M+CM instead of CM+1M.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 2353355232" size-unit="char" translate="yes" xml:space="preserve">
+          <source>-%1</source>
+          <note from="Developer" annotates="general" priority="2">Negating the period length: %1 is the period length</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType Text032Txt</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - NamedType 1865626161" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - NamedType TotalLCYCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - ReportLabel 3857790676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - ReportLabel BalanceCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 2060407144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date that you want the aging calculated for.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control AgedAsOf - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 2060407144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aged As Of</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control AgedAsOf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 3438973743 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the aging will be calculated from the due date, the posting date, or the document date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control Agingby - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 3438973743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aging by</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control Agingby - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 3438973743 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date,Posting Date,Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control Agingby - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 4096492506 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to specify the aging per customer ledger entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control AmountsinLCY - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 4096492506 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Amounts in LCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control AmountsinLCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 336339332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the column heading for the three periods will indicate a date interval or the number of days overdue.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control HeadingType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 336339332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Heading Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control HeadingType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 336339332 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Interval,Number of Days</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control HeadingType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 2035961037 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if each customer's information is printed on a new page if you have chosen two or more customers to be included in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control perCustomer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 2035961037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Page per Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control perCustomer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 2740290379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the period for which data is shown in the report. For example, enter "1M" for one month, "30D" for thirty days, "3Q" for three quarters, or "5Y" for five years.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control PeriodLength - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 2740290379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control PeriodLength - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 568987109 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to show the detailed entries that add up the total balance for each customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control PrintDetails - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3570149344 - Control 568987109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Aged Accounts Receivable v21 - Control PrintDetails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2115151299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedidos por Proveedor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pedidos Por Proveedores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2115151299 - NamedType 1913671970" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pedidos por Proveedor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pedidos Por Proveedores - NamedType PedidoPorProveedorLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2115151299 - Action 1692444235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ActionName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pedidos Por Proveedores - Action ActionName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1573261905 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2344297010">
+          <source>Specifies the value of the Amount field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PostedPurchaseEx - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3452996857 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension PurchRpctHeadderEx - Field Amount - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
